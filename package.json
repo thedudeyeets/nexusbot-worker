@@ -1,0 +1,14 @@
+{
+  "name": "nexusbot-worker",
+  "version": "1.0.0",
+  "description": "NexusBot Worker",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "",
+  "license": "ISC"
+}
